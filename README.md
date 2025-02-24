@@ -1,0 +1,2 @@
+# FINMAN
+week1
